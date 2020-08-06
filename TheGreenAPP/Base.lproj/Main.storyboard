@@ -37,10 +37,10 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="138.61607142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Scanner View Controller-->
         <scene sceneID="wAw-7Y-59G">
             <objects>
-                <viewController id="O9j-aa-Xsh" sceneMemberID="viewController">
+                <viewController id="O9j-aa-Xsh" customClass="ScannerViewController" customModule="TheGreenAPP" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="r8n-xz-X1W">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -152,10 +152,10 @@
             </objects>
             <point key="canvasLocation" x="137.68115942028987" y="138.61607142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Commuting View Controller-->
         <scene sceneID="5VX-Hu-zLu">
             <objects>
-                <viewController id="dQC-p7-EF3" sceneMemberID="viewController">
+                <viewController id="dQC-p7-EF3" customClass="CommutingViewController" customModule="TheGreenAPP" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="icc-oa-wOo">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -168,10 +168,10 @@
             </objects>
             <point key="canvasLocation" x="2074" y="940"/>
         </scene>
-        <!--View Controller-->
+        <!--Education View Controller-->
         <scene sceneID="Dd2-Pp-NlG">
             <objects>
-                <viewController id="tlL-Ek-1gy" sceneMemberID="viewController">
+                <viewController id="tlL-Ek-1gy" customClass="EducationViewController" customModule="TheGreenAPP" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="C5a-YL-Ryj">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -184,10 +184,10 @@
             </objects>
             <point key="canvasLocation" x="2912" y="940"/>
         </scene>
-        <!--View Controller-->
+        <!--Info View Controller-->
         <scene sceneID="Mzi-9h-1bX">
             <objects>
-                <viewController id="sZ9-wz-CSq" sceneMemberID="viewController">
+                <viewController id="sZ9-wz-CSq" customClass="InfoViewController" customModule="TheGreenAPP" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ime-uE-jia">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

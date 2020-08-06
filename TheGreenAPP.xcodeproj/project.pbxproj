@@ -16,6 +16,10 @@
 		56D11EF324DC756C00583E36 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EF224DC756C00583E36 /* MainViewController.swift */; };
 		56D11EF524DC759700583E36 /* SigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EF424DC759700583E36 /* SigninViewController.swift */; };
 		56D11EF724DC75CF00583E36 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EF624DC75CF00583E36 /* ProfileViewController.swift */; };
+		56D11EF924DC774000583E36 /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EF824DC774000583E36 /* ScannerViewController.swift */; };
+		56D11EFB24DC775100583E36 /* CommutingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EFA24DC775100583E36 /* CommutingViewController.swift */; };
+		56D11EFD24DC776000583E36 /* EducationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EFC24DC776000583E36 /* EducationViewController.swift */; };
+		56D11EFF24DC777100583E36 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56D11EFE24DC777100583E36 /* InfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +34,10 @@
 		56D11EF224DC756C00583E36 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		56D11EF424DC759700583E36 /* SigninViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninViewController.swift; sourceTree = "<group>"; };
 		56D11EF624DC75CF00583E36 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		56D11EF824DC774000583E36 /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
+		56D11EFA24DC775100583E36 /* CommutingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommutingViewController.swift; sourceTree = "<group>"; };
+		56D11EFC24DC776000583E36 /* EducationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationViewController.swift; sourceTree = "<group>"; };
+		56D11EFE24DC777100583E36 /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				56D11ED224DC68D800583E36 /* SceneDelegate.swift */,
 				56D11ED424DC68D800583E36 /* ViewController.swift */,
 				56D11ED624DC68D800583E36 /* Main.storyboard */,
+				56D11EF824DC774000583E36 /* ScannerViewController.swift */,
+				56D11EFA24DC775100583E36 /* CommutingViewController.swift */,
+				56D11EFC24DC776000583E36 /* EducationViewController.swift */,
+				56D11EFE24DC777100583E36 /* InfoViewController.swift */,
 				56D11EF424DC759700583E36 /* SigninViewController.swift */,
 				56D11EF224DC756C00583E36 /* MainViewController.swift */,
 				56D11EF624DC75CF00583E36 /* ProfileViewController.swift */,
@@ -147,7 +159,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56D11EF924DC774000583E36 /* ScannerViewController.swift in Sources */,
+				56D11EFD24DC776000583E36 /* EducationViewController.swift in Sources */,
 				56D11EF724DC75CF00583E36 /* ProfileViewController.swift in Sources */,
+				56D11EFB24DC775100583E36 /* CommutingViewController.swift in Sources */,
+				56D11EFF24DC777100583E36 /* InfoViewController.swift in Sources */,
 				56D11ED524DC68D800583E36 /* ViewController.swift in Sources */,
 				56D11EF524DC759700583E36 /* SigninViewController.swift in Sources */,
 				56D11ED124DC68D800583E36 /* AppDelegate.swift in Sources */,
